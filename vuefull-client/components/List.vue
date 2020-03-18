@@ -44,6 +44,7 @@
             :label="item.type"
             multiple
             outlined
+            @blur="filterData"
           >
           </v-select>
         </v-col>

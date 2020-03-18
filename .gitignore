@@ -111,9 +111,6 @@ yarn.lock
 .nuxt
 dist
 prod
-static/uploads
-static/img
-static/groceries
 sw.*
 .DS_Store
 Thumbs.db
