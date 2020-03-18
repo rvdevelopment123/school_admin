@@ -1,0 +1,42 @@
+export default [
+    {
+        websiteName: 'School App',
+        title: 'Admin School App',
+        description: 'School Attendance APp',
+        keywords: 'school',
+        shopEmail: 'reyvillamar@gmail.com',
+        emailFrom: 'Customer Service <reyvillamar@gmail.com>',
+        shopPhone: '0000000000',
+        shopAddress: 'Cavite',
+        country: 'Philippines',
+        language: 'en',
+        logo: '',
+        pageSize: 40,
+        facebook: '',
+        twitter: '',
+        google: '',
+        GOOGLE_MAPS_API: '',
+        userRoles: ['user', 'vendor', 'manager', 'admin', 'superadmin', 'teacher', 'parent'],
+        levels: [
+            'Pre-school',
+            'Level 1',
+            'Level 2',
+            'Level 3',
+            'Level 4',
+            'Level 5',
+            'Level 6',
+            'Level 7',
+            'Level 8',
+            'Level 9',
+            'Level 10',
+            'Level 11',
+            'Level 12',
+            'First Year',
+            'Second Year',
+            'Third Year',
+            'Fourth Year'
+          ],
+        CDN_URL: '/images',
+        demo: false
+    }
+] 

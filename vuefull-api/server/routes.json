@@ -1,0 +1,1 @@
+[{"model":"book","api":"books"},{"model":"movie","api":"movies"},{"model":"task","api":"tasks"},{"model":"contact","api":"contacts"},{"model":"student","api":"students"},{"model":"parent","api":"parents"}]

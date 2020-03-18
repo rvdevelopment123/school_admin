@@ -1,0 +1,18 @@
+.btn{
+    padding:40px;
+    background-color: lightseagreen;
+    border:2px solid lightcoral;
+    color:white;
+}
+.elevation-1{
+    color: black;
+}
+.btn-info{
+    border-radius:3px;
+    background:#2196F3;
+    color:#fff;
+    font-size:32px;
+    text-decoration:none;
+    padding:10px 50px;
+    margin:40px 0;
+}

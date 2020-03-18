@@ -119,9 +119,6 @@ sw.*
 Thumbs.db
 .idea/*
 package-lock.json
-vuefull-client
-vuefull-api
-vuefull-images
 docs
 docs/yarn.lock
 
