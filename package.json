@@ -1,0 +1,15 @@
+{
+    "name": "generator-vuefull",
+    "version": "1.0.0",
+    "description": "",
+    "license": "ISC",
+    "files": [
+        "generators"
+    ],
+    "keywords": [
+        "yeoman-generator"
+    ],
+    "dependencies": {
+        "yeoman-generator": "^1.0.0"
+    }
+}
